@@ -1,7 +1,7 @@
 ![logo](https://github.com/Adarsh-Yadav2002/Adarsh-Yadav2002/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Adarsh Yadav !!!!!</h1>
 <h3 align="center">A Passionate Software Engineer from India !!</h3>
-<img align="right" alt="coding" width="400" src= "https://clipartspub.com/images/coding-clipart-person-6.jpg">
+<img align="right" alt="coding" width="400" src= "https://media4.giphy.com/media/UcK7JalnjCz0k/giphy.gif?cid=ecf05e47wowa7vfi0kjt5y736weqwlhbtrbz3ko17vcgd4q9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=comradeking5454" alt="comradeking5454" /></a> </p>
 
